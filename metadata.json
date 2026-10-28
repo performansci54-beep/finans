@@ -1,0 +1,6 @@
+{
+  "name": "Dershane Kasa & Finans Takip Sistemi",
+  "description": "Kurs ve dershaneler için gelir-gider, öğrenci taksitleri, anlık kasa bakiyesi, aylık özetler ve PDF/Excel raporlama uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
